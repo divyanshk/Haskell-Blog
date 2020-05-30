@@ -1,1 +1,1 @@
-Takeaways from research papers I have read. 
+I am trying to understand Haskell.
